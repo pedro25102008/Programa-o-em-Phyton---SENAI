@@ -40,6 +40,7 @@ numero7 = float (input ('digite um numero'))
 numero8 = float (input ('digite  outro'))
 print ('o resultado da sua conta de subtração é:', numero7-numero8)
 
+print ("muito obrigado pela comreensão! <3")
 
 
 
